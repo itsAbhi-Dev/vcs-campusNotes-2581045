@@ -1,0 +1,2 @@
+Unit 5: Git hooks and best practices
+Examples: pre-commit, commit-msg, pre-push
