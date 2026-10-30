@@ -1,0 +1,2 @@
+Git best practices
+Use short-lived feature branches and small commits.
